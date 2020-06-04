@@ -1,7 +1,7 @@
 # Deep Learning (Binary Classifier) 
 ## With custom data (Kevin and Stuart from 'The Minions')
 ### Objective
-You want to understand 'Deep learning'. Your search will almost always take you to the famous dataset: 'Dogs vs. Cats'. One of the better tutorials can be found [here](https://www.tensorflow.org/tutorials/images/classification). You implement the example and the results match the documentation. Very rarely, does a well documented example like 'Dogs vs. Cats go wrong. The data was collected and cleaned perfectly to get you similar results all the time. 
+You want to understand 'Deep learning'. Your search will almost always take you to the famous dataset: 'Dogs vs. Cats'. One of the better tutorials can be found [here](https://www.tensorflow.org/tutorials/images/classification). You implement the example and the results match the documentation. Very rarely, does a well documented example like 'Dogs vs. Cats' go wrong. The data was collected and cleaned perfectly to get you similar results all the time. 
 
 If you replace this dataset with one of your own, what would it look like? How much more effort would you have to put in? Would changing this example tutorial to use your dataset be extremely difficult? 
 
