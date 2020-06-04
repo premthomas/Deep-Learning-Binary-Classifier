@@ -68,13 +68,10 @@ Program results
  |Validation loss|0.5589|
  |Testing accuracy|92.98%|
  |Testing accuracy (custom set with 222 images)|96.39%|
-
-<br>
-
+ 
+<br><br>
 ### License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
-
-<br>
-
+<br><br>
 ### Source
 1. [Image classification tutorial](https://www.tensorflow.org/tutorials/images/classification) by Tensorflow.
