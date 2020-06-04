@@ -54,6 +54,8 @@ Here are some of the more important variables used in the programs.
  |Required validation accuracy|>90% (0.9)|
  |Required difference between training and validation accuracies|<5% (0.05)|
  
+<br>
+
 Program results
  |Attributes|Value|
  |----------|-----|
