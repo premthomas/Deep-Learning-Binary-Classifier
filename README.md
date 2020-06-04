@@ -8,6 +8,7 @@ If you replace this dataset with one of your own, what would it look like? How m
 In this repository, I have created 5 programs. Each program explains one step of the process and ends with predicting for your data and checking the accuracies. 
 <br><br>
 ### The environment
+Assumption: Anaconda has been installed.
 Executing a project inside an environment is not only a best practice but safe as upgrades do not hinder the execution in the future. The following commands are to be executed from the Anaconda command prompt.
 
 Create the environment by using the command:`conda create --name <name of the environment> tensorflow-gpu`
@@ -65,11 +66,3 @@ Program results
  |Validation loss|0.5589|
  |Testing accuracy|92.98%|
  |Testing accuracy (custom set with 222 images)|96.39%|
- 
- 
-
- 
-  
-
-  
-
