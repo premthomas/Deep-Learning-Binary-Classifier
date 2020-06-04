@@ -71,5 +71,10 @@ Program results
 
 <br>
 
+### License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+<br>
+
 ### Source
 1. [Image classification tutorial](https://www.tensorflow.org/tutorials/images/classification) by Tensorflow.
