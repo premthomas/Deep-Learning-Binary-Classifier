@@ -6,6 +6,8 @@ You want to understand 'Deep learning'. Your search will almost always take you 
 If you replace this dataset with one of your own, what would it look like? How much more effort would you have to put in? Would changing this example tutorial to use your dataset be extremely difficult? 
 
 In this repository, I have created 5 programs. Each program explains one step of the process and ends with predicting for your data and checking the accuracies. 
+
+While test data has been provided, you can test how good your data collection (video capture) skills are and replace the existing data with ones that you create.
 <br><br>
 ### The environment
 Assumption: Anaconda has been installed.
@@ -66,6 +68,8 @@ Program results
  |Validation loss|0.5589|
  |Testing accuracy|92.98%|
  |Testing accuracy (custom set with 222 images)|96.39%|
+
 <br>
+
 ### Source
 1. [Image classification tutorial](https://www.tensorflow.org/tutorials/images/classification) by Tensorflow.
